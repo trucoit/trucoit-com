@@ -150,8 +150,7 @@ defaultContentLanguage = "en"
     
     [languages.en.params.author]
       name = "Pablo"
-    heroTitleLine1 = "Truco IT"
-    heroTitleLine2 = "YOUR TAGLINEss"
+
     custom404Message = "Sorry, the page you are looking for could not be found."
     # Footer text (optional)
     # footerText = "Built with Hugo and Mana theme"
