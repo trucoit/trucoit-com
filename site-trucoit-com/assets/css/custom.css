@@ -1,0 +1,22 @@
+html, body {
+  height: 100vh;
+  overflow: hidden;
+}
+
+.hero-section {
+  padding-top: 2rem;
+  display: flex;
+  align-items: flex-start;
+  justify-content: center;
+}
+
+@media (max-width: 768px) {
+  .hero-section {
+    padding-top: 1rem;
+  }
+}
+
+.hero-social a svg {
+  width: 2.5rem;
+  height: 2.5rem;
+}
