@@ -1,6 +1,6 @@
 # trucoit-com
 
-Hugo static site for trucoit.com, deployed via GitHub Pages.
+Hugo static site for [trucoit.com](https://trucoit.com), deployed via GitHub Pages.
 
 - [Contributing](#contributing)
 - [Code of conduct](#code-of-conduct)
